@@ -1,0 +1,9 @@
+{
+    "ServiceManagement": true,
+    "CategoryManagement": true,
+    "SubCategoryManagement": true,
+    "ReviewManagement": true,
+    "OrderManagement": true,
+    "UserManagement": true,
+    "PaymentManagement": true
+}
